@@ -109,7 +109,7 @@ body{
         padding: 1em;
         margin: auto;
         margin-top: 1.25em;
-        background: var(--light-gray);
+        background: var(--white);
         color: var(--black);
         text-decoration: none;
         font-size: 1.1em;
